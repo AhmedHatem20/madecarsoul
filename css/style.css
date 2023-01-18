@@ -1,0 +1,26 @@
+
+/* start nav bar  */
+
+.bg-orange{
+    background-color: #ff652c;
+    color: #fff;
+}
+
+nav a {
+    color: #fff !important;
+    font-size: 20px;
+}
+.navbar-brand{
+    font-size: 25px;
+    letter-spacing: 2px;
+}
+
+.carousel-control-next-icon  {
+    background-image: url(../) !important;
+}
+
+.carousel-control-prev-icon{
+    background-image: url(../) !important;
+}
+
+/* end nav bar  */
